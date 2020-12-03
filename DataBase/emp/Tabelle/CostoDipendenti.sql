@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[CostoDipendenti]
+﻿CREATE TABLE [dbo].[costo_dipendenti]
 (
 	[uniq_id_dipendente] UNIQUEIDENTIFIER NOT NULL, 
     [RAL] NUMERIC(18,3) NOT NULL, 

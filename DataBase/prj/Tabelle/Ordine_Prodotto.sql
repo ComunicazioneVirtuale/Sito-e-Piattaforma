@@ -1,4 +1,4 @@
-﻿CREATE TABLE [prj].[Ordine_Prodotto]
+﻿CREATE TABLE [prj].[ordine_prodotto]
 (
 	[uniq_id_ordine] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
     [uniq_id_cliente] UNIQUEIDENTIFIER NOT NULL, 

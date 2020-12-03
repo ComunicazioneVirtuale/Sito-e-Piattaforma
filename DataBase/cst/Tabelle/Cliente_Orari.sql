@@ -1,4 +1,4 @@
-﻿CREATE TABLE [cst].[Cliente_Orari]
+﻿CREATE TABLE [cst].[cliente_orari]
 (
 	[uniq_id_cliente] UNIQUEIDENTIFIER NOT NULL, 
     [c_giorno] VARCHAR(50) NOT NULL, 

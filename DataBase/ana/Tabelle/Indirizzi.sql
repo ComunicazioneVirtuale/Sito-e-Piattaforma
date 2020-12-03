@@ -1,4 +1,4 @@
-﻿CREATE TABLE [ana].[Indirizzi]
+﻿CREATE TABLE [ana].[indirizzi]
 (
 	[n_id_luogo] INT NOT NULL PRIMARY KEY, 
     [c_inidirizzo] VARCHAR(100) NULL, 

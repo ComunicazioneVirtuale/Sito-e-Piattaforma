@@ -245,4 +245,32 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="uniq_id_cliente" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="0de4fc13-430f-4b80-bfd7-1c8043060b70" ChangeDateTime="11/15/2020 08:37:23">
+    <Property Name="ElementName" Value="[dbo].[Interviste].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Interviste]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_cliente" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9aa8661f-acf2-49f7-8101-91f14431ace9" ChangeDateTime="11/15/2020 08:37:28">
+    <Property Name="ElementName" Value="[dbo].[Interviste].[id_cliente]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Interviste]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="uniq_id_cliente" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="09873b01-d7f0-467a-8a21-13c3ddff1523" ChangeDateTime="11/15/2020 08:41:54">
+    <Property Name="ElementName" Value="[cst].[Interviste].[n_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[cst].[Interviste]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="n_ecommerce" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fc78e2cf-8831-4fe7-a8bf-aeb9802700a0" ChangeDateTime="11/15/2020 08:43:04">
+    <Property Name="ElementName" Value="[dbo].[Proposte].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Proposte]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="uniq_id_cliente" />
+  </Operation>
 </Operations>

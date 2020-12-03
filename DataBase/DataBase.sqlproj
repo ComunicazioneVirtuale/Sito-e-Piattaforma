@@ -98,6 +98,8 @@
     <Build Include="prj\Tabelle\Ordini.sql" />
     <Build Include="prj\Tabelle\Ordine_Prodotto.sql" />
     <Build Include="ana\Tabelle\TipoCosto.sql" />
+    <Build Include="cst\Tabelle\Interviste.sql" />
+    <Build Include="cst\Tabelle\Interviste_Proposte.sql" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="ana\ana.sql" />

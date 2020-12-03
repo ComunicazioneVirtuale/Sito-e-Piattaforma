@@ -1,4 +1,4 @@
-﻿CREATE TABLE [ana].[Ruolo]
+﻿CREATE TABLE [ana].[ruolo]
 (
 	[n_id_ruolo] INT NOT NULL , 
     [descrizione] VARCHAR(50) NOT NULL, 

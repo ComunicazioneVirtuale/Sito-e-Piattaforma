@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Utenti]
+﻿CREATE TABLE [dbo].[utenti]
 (
 	[uniq_id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY NONCLUSTERED, 
     [c_email] VARCHAR(50) NULL, 

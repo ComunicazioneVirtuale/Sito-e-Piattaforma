@@ -1,4 +1,4 @@
-﻿CREATE TABLE [cst].[Clienti]
+﻿CREATE TABLE [cst].[clienti]
 (
 	[uniq_id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
     [uniq_id_commerciale] UNIQUEIDENTIFIER NOT NULL, 

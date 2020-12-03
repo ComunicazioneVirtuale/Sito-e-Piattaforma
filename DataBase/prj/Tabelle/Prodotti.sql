@@ -1,4 +1,4 @@
-﻿CREATE TABLE [prj].[Prodotti]
+﻿CREATE TABLE [prj].[prodotti]
 (
 	[n_id_prodotto] BIGINT NOT NULL PRIMARY KEY, 
     [c_titolo] VARCHAR(50) NULL, 

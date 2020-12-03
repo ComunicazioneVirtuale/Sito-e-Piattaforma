@@ -1,7 +1,7 @@
-﻿CREATE TABLE [ana].[Utente]
+﻿CREATE TABLE [ana].[utente]
 (
 	[uniq_id_utente] UNIQUEIDENTIFIER NOT NULL, 
-    [c_codice_fiscale] VARCHAR(15) NOT NULL, 
+    [c_codice_fiscale] VARCHAR(16) NOT NULL, 
     [c_nome] VARCHAR(50) NULL, 
     [c_cognome] VARCHAR(50) NULL, 
     [d_nascita] DATE NULL, 

@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Dipendenti]
+﻿CREATE TABLE [dbo].[dipendenti]
 (
 	[uniq_id_dipendente] UNIQUEIDENTIFIER NOT NULL,
 	[uniq_id_utente] UNIQUEIDENTIFIER NOT NULL, 
